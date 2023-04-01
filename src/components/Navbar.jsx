@@ -7,7 +7,7 @@ import { useState } from 'react'
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState (false)
   return (
-    <div className='flex px-4 py-4 justify-between items-center bg-white/95'>
+    <div className='flex px-4 py-4 justify-between items-center'>
         <div className='w-[30%] cursor-pointer'>
             <img className='w-[100%] xl:w-[45%]' src={logo} alt="" />
         </div>
