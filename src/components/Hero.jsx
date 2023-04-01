@@ -23,8 +23,8 @@ const Hero = () => {
 			</div>
             <div className="px-2 mt-[23%] text-black xl:hidden">
                 <h2 className="font-bold text-2xl mb-2">Hello!</h2>
-                <p className="font-semibold">Here at Onigele, Our main <br />Goal is Making You Look <br />Best at every occasion. </p>
-                <p className="font-semibold mt-4">You Can Book a Session <br />With any of our seasoned <br />makeup artists and stylists <br />of your choosing</p>
+                <p className="font-medium">Here at Onigele, Our main <br />Goal is Making You Look <br />Best at every occasion. </p>
+                <p className="font-medium mt-4">You Can Book a Session <br />With any of our seasoned <br />makeup artists and stylists <br />of your choosing</p>
                 <button className="px-4 py-2 border-2 border-red-400 rounded-3xl font-bold hover:bg-red-500 mt-4">
 					Book Now
 				</button>
