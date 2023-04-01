@@ -1,5 +1,5 @@
 import React from "react";
-import make from "../assets/heroblack.png";
+import make from "../assets/group.png";
 
 const Hero = () => {
 	return (
@@ -21,7 +21,7 @@ const Hero = () => {
 					Book Now
 				</button>
 			</div>
-            <div className="px-2 mt-[23%] text-white/80 xl:hidden py-8">
+            <div className="px-2 mt-[26%] text-white/80 xl:hidden py-8">
                 <h2 className="font-bold text-2xl mb-2">Hello!</h2>
                 <p className="font-medium text-base">Here at Onigele, Our main <br />Goal is Making You Look <br />Best at every occasion. </p>
                 <p className="font-medium text-base mt-4">You Can Book a Session <br />With any of our seasoned <br />makeup artists and stylists <br />of your choosing</p>
